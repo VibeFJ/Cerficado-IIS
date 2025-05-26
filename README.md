@@ -32,14 +32,20 @@ Al crear el archivo de texto nuevo escribir manualmente las cabeceras
 **LIMPIAR ARCHIVO .CRT**
 
 -----BEGIN CERTIFICATE-----
+<br>
 //Contenido del archivo crt
+<br>
 -----END CERTIFICATE-----
+<br>
 
  - Guardar con la extensión .crt
 
 **LIMPIAR LLAVE PRIVADA**
+<br>
 -----BEGIN PRIVATE KEY-----
+<br>
 //Contenido del archivo key
+<br>
 -----END PRIVATE KEY-----
 
  - Guardar con la extensión .key
