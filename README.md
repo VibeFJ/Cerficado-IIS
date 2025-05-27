@@ -88,7 +88,7 @@ De esta forma ya esta el archivo pfx correcto con el certificado y la llave priv
 - Ahora en el administrador de IIS, Win + R y escribimos **inetmgr** y damos click en Aceptar
 - En certificados del Servidor ya aparecera nuestro certificado.
 - Para agregar al sitio web, seleccionamos el sitio, en enlaces o **(bindings)**
-- Agregarmos uno nuevo con el Tipo https con el puerto 443.
+- Agregamos uno nuevo con el Tipo https con el puerto 443.
 
 <h3 align="center">Nombre del Host 💫</h3>
 
